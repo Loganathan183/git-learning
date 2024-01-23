@@ -1,0 +1,6 @@
+THIS is a B56WDTamil main boot camp session
+This a demo session
+to save a file in vs code press ctrl+save
+wgat is role of developer?
+jira tickets
+version control system
