@@ -1,0 +1,6 @@
+self closing tags:html,head,body
+non self closing tags:meta
+basic tags:<h1></h1> to <h6></h6>.
+<p>this is paragraph</p> ...paragraph tags
+
+
