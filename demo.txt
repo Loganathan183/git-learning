@@ -1,10 +1,46 @@
-THIS is a B56WDTamil main boot camp session
-This a demo session
-to save a file in vs code press ctrl+save
-wgat is role of developer?
-jira tickets  
-this is git session
-version control system
+self closing tags:html,head,body
+non self closing tags:meta
+basic tags:<h1></h1> to <h6></h6>.
+<p>this is paragraph</p> ...paragraph tags
+div stands for divison or section in the document
+section represents grouping
 
-this is day 2 session 
-data types boolean objects arr
+cascading style sheet
+inline
+internal
+external
+
+position properties:
+1.static properties
+they are not affected by top,left,bottom and right.
+by default all the html element are static
+
+2.relative
+a.They are  affected by top ,left, bottom or right
+b.A space is created for them in the document
+c.It will affect the document flow
+
+3.absolute
+a.They are  affected by top ,left, bottom or right 
+b.It will affect the document flow
+c.no space is created 
+d.it will be positioned w.r.t first positioned element
+
+2 cases are there
+absolute position property has to be used along with the combination of the relative
+ex:if child1has to be absolute means 
+
+
+4.fixed : IF you allot one specific location top,left, bottom, or right 
+they are not affected by scrolling
+
+5.sticky:
+they will get affected by scrolling , but.. if you reach their position they will stick on to it
+
+CDN-content delivery network
+containers:
+responsive break point
+xs:xtra small -less than 576px;100percent
+sm:small greater than 576px;max width 540px
+lg:large
+xl:xtra large
